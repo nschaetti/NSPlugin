@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       NSPlugin
- * Plugin URI:        http://www.nilsschaetti.com/nsplugin
+ * Plugin URI:        http://www.nilsschaetti.com/index.php/projects/nsplugin
  * Description:       Plugin for the website nilsschaetti.com.
  * Version:           1.0.0
  * Author:            Nils Schaetti
